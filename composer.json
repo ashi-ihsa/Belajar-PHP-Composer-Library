@@ -1,5 +1,5 @@
 {
-    "name": "HarrySanjaya/belajar-php-composer-library",
+    "name": "ashi-ihsa/belajar-php-composer-library",
     "description": "Composer Library",
     "type": "library",
     "autoload": {
