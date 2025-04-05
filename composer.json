@@ -1,0 +1,17 @@
+{
+    "name": "hs/belajar-php-composer-library",
+    "description": "Composer Library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HarrySanjaya",
+            "email": "h4rrysanjaya@gmail.com"
+        }
+    ],
+    "require": {}
+}
